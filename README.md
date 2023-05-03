@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @iambarbosa
-- 👀 I’m interested in psychology
-- 🌱 I’m currently learning frontend dev
+- 👀 I’m interested in psychology, UX/UI design, User research
+- 🌱 I’m currently learning HTML & CSS
+- 💼 I work as a product digital designer
+- 👩‍💻 Coding languages: HTML, CSS
+- 💬 Spoken languages: Portuguese, English, Spanish
+- 📍 Living in Lisbon
 - 📫 Reach me at barbosanamafalda@gmail.com
 
 <!---
