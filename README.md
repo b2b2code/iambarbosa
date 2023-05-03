@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iambarbosa
-- 👀 I’m interested in social sciences, UX/UI design, User research
+- 👀 I’m interested in social sciences, UX/UI design, web design, User research
 - 🌱 I’m currently learning HTML & CSS
 - 💼 I work as a product digital designer
 - 👩‍💻 Coding languages: HTML, CSS
