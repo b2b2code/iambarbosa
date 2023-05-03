@@ -4,7 +4,7 @@
 - 💼 I work as a product digital designer
 - 👩‍💻 Coding languages: HTML, CSS
 - 💬 Spoken languages: Portuguese, English, Spanish
-- 📍 Living in Lisbon
+- 📍 Living in Lisbon, Portugal
 - 📫 Reach me at barbosanamafalda@gmail.com
 
 <!---
