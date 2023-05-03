@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iambarbosa
-- 👀 I’m interested in learning and reading
-- 🌱 I’m currently learning webdesign
+- 👀 I’m interested in psychology
+- 🌱 I’m currently learning frontend dev
 - 📫 Reach me at barbosanamafalda@gmail.com
 
 <!---
